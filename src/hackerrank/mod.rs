@@ -1,6 +1,6 @@
 mod task0;
 mod task03;
-mod task04;
+pub mod task04;
 mod task05;
 mod task06;
 mod task07;
@@ -8,3 +8,4 @@ mod task08;
 mod task09;
 mod task10;
 pub mod task3;
+
