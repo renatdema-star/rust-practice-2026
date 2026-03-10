@@ -1,3 +1,4 @@
+#![allow(dead_code)]
 fn main() {
     let x: i32 = 10;
     let y: i32 = 5;
